@@ -1,0 +1,40 @@
+ 
+    h1{
+     font-family: Arial;
+    }
+    
+    #show_quote{
+     border: solid 1px purple;
+     border-radius: 10px;
+     padding-right: 0px;
+     padding-left: 0px;
+     width: 350px;
+     box-shadow: 10px 10px 5px #888888;
+     background-color: #D8D8D8; 
+    }
+    
+    body{
+     font-family: Cambria;
+     background-color: #CCCCFF;
+    }
+    
+    button{
+     font-family: Cambria;
+     background-color: #CC99FF;
+     padding: 10px;
+     font-size: 15px;
+    }
+    
+    p{
+     font-size: 20px;
+    }
+    
+    h1{
+     font-size: 30px;
+     font-family: 'Lobster', cursive;
+    }
+    
+    #footer {
+    position:fixed;
+    bottom:0;
+}
